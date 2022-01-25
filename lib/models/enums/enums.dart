@@ -1,0 +1,1 @@
+enum FormComponentType { textField , dropdown, checkBox}
